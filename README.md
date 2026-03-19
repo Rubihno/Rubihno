@@ -8,6 +8,10 @@
 - **Hobby's**: Gaming, Music, Programming
 
 ## Current School Projects
+### PoEWealth
+- **Description**: with this websit you can login with your Path of Exile account and see the total net worth of your individual characters and also what every item in their stash tab or inventory is worth
+- **Framework**: ASP.NET 10
+- **Database**: MySQL (Aiven to host the database online)
 
 ## Finished School Projects
 ### Grocery App
@@ -19,7 +23,21 @@
 - **Framework**: .NET MAUI 9
 - **Database**: Online MySQL database
 
-## Personal Projects
+## Current Personal Project
+### The Final Ascent
+In The Final Ascent (Text-based RPG), you guide your hero through different levels/dungeons, fight enemies, defeat bosses, collect powerful gear, and level up to face the final boss. Every level, fight, and item brings you closer to becoming a legend. 
+
+- **Framework**: ASP.NET 10
+- **Database**: PostgreSQL (Neon for hosting)
+
+Some of the features include: 
+1. 3 classes with sub-classes and abilities to choose from
+2. Leveling system
+3. Loot system with weapons, armor, jewelry, and rarities
+4. Inventory & equipment management
+5. Multiple levels en bosses to conquer
+
+## Finished Personal Projects
 ### ReadingVault (Currently Private Repo)
 A Windows reading tracker for manhwa and novels built with .NET MAUI. Keep track of your reading progress, organize your collection, and never lose track of where you left off.
 
@@ -33,11 +51,11 @@ Possible additions later on include reading capabilities (either through local f
 - JavaScript (currently learning)
 
 ## Games I'm currently playing
+- Crimson Desert
 - League of Legends
 - PoE1, 2 & Last Epoch seasons
 - V-Rising
 - Rust
-- Marvel Rivals
 - Megabonk
 
 ## How to reach
