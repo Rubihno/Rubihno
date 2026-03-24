@@ -7,7 +7,7 @@
 - **Country**: The Netherlands
 - **Hobby's**: Gaming, Music, Programming
 
-## Currently projects
+## Current projects
 - [PoEWealth](https://github.com/Rubihno/PoEWealth)
 - [The Final Ascent](https://github.com/Rubihno/The-Final-Ascent) 
 
