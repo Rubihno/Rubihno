@@ -7,48 +7,26 @@
 - **Country**: The Netherlands
 - **Hobby's**: Gaming, Music, Programming
 
-## Current School Projects
-### PoEWealth
-- **Description**: with this websit you can login with your Path of Exile account and see the total net worth of your individual characters and also what every item in their stash tab or inventory is worth
-- **Framework**: ASP.NET 10
-- **Database**: MySQL (Aiven to host the database online)
+## Currently projects
+- [PoEWealth](https://github.com/Rubihno/PoEWealth)
+- [The Final Ascent](https://github.com/Rubihno/The-Final-Ascent) 
 
-## Finished School Projects
-### Grocery App
-- **Description**: with this app you can make, save, download/share, and use grocery lists. Useful when you go grocery shopping
-- **Framework**: .NET MAUI 8
-- **Database**: SQLite (not implemented yet)
-### Urenregistratie (hour registration app)
-- **Description**: With this app freelancers can register worked hours, see an overview per month of all their personal shifts and get rewards based on those hours. Managers can also see all freelancers asigned to their location, hour overview of all those freelancers and add new freelancers to the app. Admins can add locations, managers and asign them to a location. 
-- **Framework**: .NET MAUI 9
-- **Database**: Online MySQL database
-
-## Current Personal Project
-### The Final Ascent
-In The Final Ascent (Text-based RPG), you guide your hero through different levels/dungeons, fight enemies, defeat bosses, collect powerful gear, and level up to face the final boss. Every level, fight, and item brings you closer to becoming a legend. 
-
-- **Framework**: ASP.NET 10
-- **Database**: PostgreSQL (Neon for hosting)
-
-Some of the features include: 
-1. 3 classes with sub-classes and abilities to choose from
-2. Leveling system
-3. Loot system with weapons, armor, jewelry, and rarities
-4. Inventory & equipment management
-5. Multiple levels en bosses to conquer
-
-## Finished Personal Projects
-### ReadingVault (Currently Private Repo)
-A Windows reading tracker for manhwa and novels built with .NET MAUI. Keep track of your reading progress, organize your collection, and never lose track of where you left off.
-
-Possible additions later on include reading capabilities (either through local files, or extensions like Mihon), account capabilities, notifications of new chapters, and more.
-- **Framework**: .NET MAUI 10
-- **Database**: MySQL, potentially Supabase/Postgres in the future
+## Finished projects
+- [Grocery App](https://github.com/Rubihno/Grocery-App)
+- [Urenregistratie](https://github.com/OOSDDB3/Urenregistratie-Programma) (hour registration)
+- [ReadingVault](https://github.com/Rubihno/ReadingVault)
 
 ## Know Programming Languages
 - C#
 - Python
-- JavaScript (currently learning)
+- HTML, CSS & JavaScript (currently learning)
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
+
+## Future learning goals
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![OpenGl](https://img.shields.io/badge/OpenGl-5487A6?logo=OpenGl&logoColor=fff)](#)
 
 ## Games I'm currently playing
 - Crimson Desert
@@ -60,3 +38,7 @@ Possible additions later on include reading capabilities (either through local f
 
 ## How to reach
 - [LinkedIn](https://www.linkedin.com/in/ruben-hakvoort-87393414b/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubihno&hide=contribs,stars&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=rubihno&theme=dark)
+
