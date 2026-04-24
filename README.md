@@ -9,7 +9,6 @@
 
 ## Current projects
 - [PoEWealth](https://github.com/Rubihno/PoEWealth)
-- [The Final Ascent](https://github.com/Rubihno/The-Final-Ascent) 
 
 ## Finished projects
 - [Grocery App](https://github.com/Rubihno/Grocery-App)
@@ -40,5 +39,5 @@
 - [LinkedIn](https://www.linkedin.com/in/ruben-hakvoort-87393414b/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubihno&hide=contribs,stars&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=rubihno&theme=dark)
+[![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=rubihno&theme=dark)
 
