@@ -8,13 +8,18 @@
 - **Hobby's**: Gaming, Music, Programming
 
 ## Current projects
+### Personal
 - [WishWatch](https://github.com/Rubihno/WishWatch)
 
 ## Finished projects
+### School
 - [Grocery App](https://github.com/Rubihno/Grocery-App)
 - [Urenregistratie](https://github.com/OOSDDB3/Urenregistratie-Programma) (hour registration)
-- [ReadingVault](https://github.com/Rubihno/ReadingVault)
 - [PoEWealth](https://github.com/Rubihno/PoEWealth)
+### Personal
+- [ReadingVault](https://github.com/Rubihno/ReadingVault)
+- [Last Shot](https://rubihno.itch.io/last-shot)
+  - This is a simple game I made for the Shovel Game Jam 2025
 
 ## Know Programming Languages
 - C#
